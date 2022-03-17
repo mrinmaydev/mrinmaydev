@@ -1,7 +1,7 @@
 - 👋 Hi, Mrinmay Dev Sarma
-- 👀 I’m interested in FOSS, Data Science, the Human Brain, UX designing and YOU 😉
+- 👀 I’m interested in FOSS, Android and Data Science 😉
 - 🌱 I’m currently learning Github and Data analytics.
-- 📫 How to reach me -- 🔗[LINKEDIN](https://www.linkedin.com/in/mrinmaydevsarma/) , Mail → mrinmaydevsarma@protonmail.ch
+- 📫 You can reach me at -- 🔗[LINKEDIN](https://www.linkedin.com/in/mrinmaydevsarma/) or :email:[MAIL](mrinmaydev@duck.com)
 
 <!---
 mrinmaydev/mrinmaydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
